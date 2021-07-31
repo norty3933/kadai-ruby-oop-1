@@ -22,7 +22,7 @@ end
 giants = Team.new("Giants", 67, 45, 8)
 tigers = Team.new("Tigers", 60, 53, 7)
 dragons = Team.new("Dragons", 60, 55, 5)
-bayStars = Team.new("BayStars", 52, 56, 12)
+bayStars = Team.new("BayStars",56, 58, 6)
 carp = Team.new("Carp", 52, 56, 12)
 swallows = Team.new("Swallows", 41, 69, 10)
 
